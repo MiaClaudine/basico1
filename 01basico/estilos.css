@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    background-color: black;
+    width: 1500px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.rojo {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.amarillo{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
